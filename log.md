@@ -8,3 +8,12 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 0: January 7, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Angular JS hack a bit in depth, Neural Net(TF)
+
+**Thoughts:** All is going smooth. Picking up the hack flow.
+
+**Link to work:**
